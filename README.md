@@ -64,7 +64,7 @@ Input (128x128x1)
 |---------------|-------------|
 | Train Accuracy| ~96.0%      |
 | Val Accuracy  | ~87.7%      |
-| Test Accuracy | ~86.4%      |
+| Test Accuracy | ~85.8%      |
 
 
 
